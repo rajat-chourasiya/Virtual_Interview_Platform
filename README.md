@@ -1,5 +1,6 @@
  # 💻 Virtual Interview Platform
-![Screenshot 2025-03-21 000515](https://github.com/user-attachments/assets/54b828c4-17a2-421d-a82c-3c5bf4d79fa4)
+![Screenshot 2025-03-21 000515](https://github.com/user-attachments/assets/3ea87d0e-5466-4f4c-8063-1415ea39465a)
+
 
 A modern browser-based **virtual interview platform** built with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**. It enables seamless remote interviews with live video, collaborative coding, feedback collection, and candidate evaluation.
 
